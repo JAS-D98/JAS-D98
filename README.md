@@ -1,4 +1,4 @@
-![logo](https://github.com/JAS-D98/JAS-D98/blob/main/R.jpg)
+![logo]([https://github.com/JAS-D98/JAS-D98/blob/main/R.jpg](https://github.com/JAS-D98/JAS-D98/blob/main/Github%20Cover%20.jpg))
 <h1 align="center">Hi 👋, I'm Jasper Ngunjiri</h1>
 <h3 align="center">A zealous Frontend Developer and UI/UX Designer from Kenya.</h3>
 
