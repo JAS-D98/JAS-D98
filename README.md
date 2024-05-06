@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasper Ngunjiri</h1>
-<h3 align="center">An Outstanding Web Application Developer and UI/UX Designer from Kenya.</h3>
+<h3 align="center">An Outstanding Web Application Developer and UI/UX Designer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
