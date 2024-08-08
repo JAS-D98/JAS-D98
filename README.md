@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jas-d98&label=Profile%20views&color=0e75b6&style=flat" alt="jas-d98" /> </p>
 
-- 🌱 I’m currently learning **Backend Development using Node.js with Express.js Framework**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 Some of my projects are available at [Jasperwambuguport.netlify.app](Jasperwambuguport.netlify.app)
 
