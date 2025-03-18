@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasper Ngunjiri</h1>
-<h2 align="center">An Outstanding Web Application Developer and UI/UX Designer.</h2>
+<h2 align="center">An Outstanding Full Stack Developer and UI/UX Designer.</h2>
 
  
 <img alt="Github Banner" width="100%" src="./Github Banner .jpg">  
@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jas-d98&label=Profile%20views&color=0e75b6&style=flat" alt="jas-d98" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 Some of my projects are available at [Jasperwambuguport.netlify.app](Jasperwambuguport.netlify.app)
 
